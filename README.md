@@ -1,2 +1,2 @@
 # weedo
-Weedo for citizen
+weedo. together.
